@@ -17,4 +17,8 @@ in - time complexity depends on container
 List access time = O(n)
 Dictionary/Hash/Set = O(1), O(n) worst time
 
+Leetcode Easy
+
+Also the solution posted was stolen from someone, I couldn't get it on my own the first time around :(
+
 """
